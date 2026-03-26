@@ -1,0 +1,27 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "Login System Threat Model",
+    "owner": "Apolojoy",
+    "description": "This project models a web-based login system where users enter their username and password to access their accounts. The system includes a web application, server, and database that stores user credentials. The goal is to identify potential security threats and propose mitigation strategies.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Login System DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1-RC1",
+        "cells": [],
+        "description": "This diagram represents the data flow of a login system including user interaction, web application, server, and database."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "poypoy",
+    "threatTop": 0
+  }
+}
